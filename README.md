@@ -1,0 +1,2 @@
+# MNISTTensorFlowSharp
+使用TensorFlowSharp训练MNIST数据集
